@@ -1,21 +1,21 @@
 {
-  "name": "exam",
+  "name": "elearning",
   "version": "1.0.0",
-  "description": "",
+  "description": "This repository consist of node js application for transflower students",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/divyatayde/exam.git"
+    "url": "git+https://github.com/RaviTambade/elearning.git"
   },
-  "author": "",
+  "author": "Ravi Tamabde",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/divyatayde/exam/issues"
+    "url": "https://github.com/RaviTambade/elearning/issues"
   },
-  "homepage": "https://github.com/divyatayde/exam#readme",
+  "homepage": "https://github.com/RaviTambade/elearning#readme",
   "dependencies": {
     "express": "^4.18.1"
   }
